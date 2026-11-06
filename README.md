@@ -1,5 +1,5 @@
 # ED.2026.2
-Repositório de exemplos das aulas de Estrutura de Dados (MAE014) em 2026.2
+Estudo dirigido sobre o repositório de exemplos das aulas de Estrutura de Dados (MAE014) em 2026.2
 
 Repositório da disciplina "Estruturas de Dados" (UFRJ-IM-DMA 2026.2), ministrada pelo professor Milton R Ramirez, do Departamento de Matemática Aplicada do Instituto de Matemática da UFRJ, oferecida no **segundo semestre de 2026** às turmas dos cursos de Matemática Aplicada e Engenharia Matemática, com vagas também para discentes dos Bacharelado em Matemática, Ciências Atuariais, Estatística, BCMT e Básico da Engenharia, através da disciplina MAE014 - Tópicos em Ciência de Dados B (turma SIGA 16351). As aulas ocorrerão às terças e quintas, de 15h às 17h, na sala CT-Decania-A 204.
 
@@ -15,5 +15,6 @@ Adotaremos a metodologia de aprendizado clássica, com ligeiras modificações, 
  3) **Estruturas de Dados e Algoritmos em C++**; Adam Drozdek; 4a Edição; Editora CENGAGE Learning; 2017
  4) **Data Structures and Algorithms in Python**; Michael T. Goodrich, Roberto Tamassia, Michel H. Goldwasser; ISBN13 978-1118290279; Editora Wile; 2013
 
-Há ainda outras leituras de apoio à disciplina. Algumas recomendações, em particular sobre programação, apresentadas na página oficial da disciplina (https://sites.google.com/matematica.ufrj.br/ed-2026-2/home)
+Há ainda outras leituras de apoio à disciplina. Algumas recomendações, em particular sobre programação, apresentadas na página oficial da disciplina (https://sites.google.com/matematica.ufrj.br/ed-2026-2/home).
 
+Este repositório Fork pega como base as Estruturas abordadas em sala, com o objetivo de estudar e implementar as devidas atualizações em seus determinados algoritmos.
